@@ -8,7 +8,7 @@
   "dependencies": {
     "chart.js": "^2.1.4",
     "laravel-echo": "^1.0.1",
-    "lodash": "^4.16.2",
+    "lodash": "^4.17.21",
     "moment": "^2.13.0",
     "pusher-js": "^3.2.1",
     "vue": "^2.0.1",
