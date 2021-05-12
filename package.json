@@ -6,7 +6,7 @@
     "lint": "eslint resources/assets/js --ext .js --ext .vue --fix"
   },
   "dependencies": {
-    "chart.js": "^2.1.4",
+    "chart.js": "^2.9.4",
     "laravel-echo": "^1.0.1",
     "lodash": "^4.16.2",
     "moment": "^2.13.0",
